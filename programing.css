@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+.chair{
+ color: antiquewhite;
+  font-size: 50px;
+  font-weight: bolder; 
+   text-align: center;
+}
+@media screen and (max-width:700px) {
+    .chair{
+        background-color: peachpuff;
+        font-size: 20px;
+        font-weight: lighter;
+        width: 1100px;
+        height: 1200px;
+        
+    }
+}
