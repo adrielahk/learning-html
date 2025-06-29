@@ -1,0 +1,15 @@
+.puppy{
+    background-color: blueviolet;
+    width: 650px;
+    height: 650px;
+    border-radius: 50pc;
+    margin: auto;
+    padding-top: 60px;
+}
+.red{
+    background-color: hotpink;
+    width: 550px;
+    height: 550px;
+    border-radius: 50pc;
+    margin: auto;
+}
