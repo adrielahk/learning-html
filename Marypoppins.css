@@ -2,14 +2,45 @@
     background-color: blueviolet;
     width: 650px;
     height: 650px;
-    border-radius: 50pc;
+    border-radius: 50%;
     margin: auto;
     padding-top: 60px;
 }
 .red{
     background-color: hotpink;
-    width: 550px;
-    height: 550px;
-    border-radius: 50pc;
+    width: 570px;
+    height: 570px;
+    border-radius: 50%;
+    margin: auto; 
+}
+
+.Forest{
+    width: 470px;
+    height: 470px;
+    background-color: orangered;
+    border-radius: 50%;
+    margin: auto;
+    padding-top: 60px;
+    
+}
+.Frank{
+    width: 350px;
+    height: 350px;
+    background-color: palegreen;
+    border-radius: 50%;
+    margin: auto;
+}
+.Prime{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 50%;
+    margin: auto;
+}
+.Pepsi{
+    width: 150px;
+    height: 150px;
+    background-color: burlywood;
+    border-radius: 50%;
     margin: auto;
 }
